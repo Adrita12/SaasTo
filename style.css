@@ -209,6 +209,7 @@ input:checked + label .row #rotate {
    margin-left: 5vh;
    border-radius: 3vh;
    box-shadow: 3px 3px rgb(217, 235, 241);
+   box-shadow: 0px 10px 30px -5px rgba(0,0,0,0.8);
 }
 
 #page3 img{
@@ -344,6 +345,7 @@ justify-content: center;
     margin-right: 1vh;
     margin-left: 8vh;
     border-radius: 5vh;
+    box-shadow: 0px 10px 30px -5px rgba(0,0,0,0.8);
 }
 
 #page5 .member-content img{ 
